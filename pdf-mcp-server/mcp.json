@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "pdf-mcp": {
+      "command": "uv",
+      "args": ["run", "main.py"],
+      "transport": "stdio"
+    }
+  }
+}
