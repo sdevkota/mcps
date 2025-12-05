@@ -1,7 +1,7 @@
 [project]
-name = "weather-mcp"
+name = "pdf-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "A FastMCP server for creating, reading, updating, merging, and extracting pages from PDF files. Provides tools for comprehensive PDF manipulation including text extraction, metadata reading, and document assembly."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
